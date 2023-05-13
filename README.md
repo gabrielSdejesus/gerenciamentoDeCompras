@@ -23,6 +23,21 @@ O sistema possui as seguintes funcionalidades:
 - Edição de um item existente
 - Exclusão de um item existente
 
+## Telas
+
+<h5>Home</h5>
+<img src="https://github.com/gabrielSdejesus/gerenciamentoDeCompras/assets/108988003/b1f2c5a6-da04-4115-8849-abd3f0b2d68f"/ >
+
+<h5>Adicionar</h5>
+<img height="500" src="https://github.com/gabrielSdejesus/gerenciamentoDeCompras/assets/108988003/1cb89bc3-6e9f-490a-b2a6-da4352dda0b8"/>
+
+<h5>Editar</h5>
+<img height="500" src="https://github.com/gabrielSdejesus/gerenciamentoDeCompras/assets/108988003/f87df80d-cbac-42eb-af57-9c7ea98c0835"/>
+
+<h5>Deletar</h5>
+<img height="500" src="https://github.com/gabrielSdejesus/gerenciamentoDeCompras/assets/108988003/99102953-52fa-4cf0-9a99-23568f70aa7c"/>
+
+
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE.md para mais detalhes.
