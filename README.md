@@ -6,6 +6,7 @@ Este projeto consiste em um CRUD (Create, Read, Update, Delete) de gerenciamento
 
 - Para rodar o projeto é necessário ter o ColdFusion 11 instalado em sua máquina. Além disso, é preciso rodar o arquivo .cfm dentro de um servidor.
 - Utilizar um editor + plugin como VsCode ou Brackets que tem suporte da própria Adobe.
+- Use um docker para MySQL e faça a criação da tabela que representa o item, o script do bd está na pasta "bd".
 
 ## Tecnologias utilizadas
 
