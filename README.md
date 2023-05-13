@@ -17,6 +17,8 @@ Este projeto consiste em um CRUD (Create, Read, Update, Delete) de gerenciamento
 - JavaScript
 - HTML5
 - CSS3
+- Docker
+- MySQL
 
 ## Funcionalidades
 
